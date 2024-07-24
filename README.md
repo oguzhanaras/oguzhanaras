@@ -1,0 +1,1 @@
+Ordu üniversitesi ön lisans Bilgisayar Programcılığı mezunuyum. Online ve kurumsal kurslar ile kendimi geliştirmeye devam ediorum
