@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Oguzhan</h1>
-<h3 align="center">Ordu üniversitesi Bilgisayar Programcılığı ön lisans mezunuyum. Online ve kurumsal kurslar ile kendimi geliştirmeye devam ediorum...</h3>
+<h1 align="center">Hi 👋, I'am Oguzhan</h1>
+<h3 align="center">I graduated from Ordu University Computer Programming associate degree. I continue to improve myself with online and corporate courses...</h3>
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, Python Web Apps**
 
